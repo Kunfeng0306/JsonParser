@@ -1,0 +1,40 @@
+{
+    "_id" : "10107833",
+    "author" : "周文根,徐之江",
+    "img" : "http://book.img.ireader.com/group6/M00/17/13/CmQUN1X1A1CEOTvLAAAAAANWZNk701351932.jpg?v=PkHOJwXM",
+    "title" : "市场营销与策划",
+    "url" : "http://www.ireader.com/index.php?ca=bookdetail.index&pca=booksort.index&bid=10107833",
+    "price" : "1.00元",
+    "des" : "本书是市场营销专业的核心课程教材，以培训和训练学生的市场营销通用职业能力为宗旨，符合基于工作过程为导向的高职教育课程改革思路。\r\n本书注重实用性、应用性，帮助学生全面了解企业营销活动的基本内容，树立以顾客需求为导向的营销观念；能够完成相关的营销工作任务。",
+    "num_rate" : "30",
+    "rate" : "7.3",
+    "tag" : "市场营销",
+    "press" : "浙江大学出版社",
+    "similar" : [
+        {
+            "url" : "http://www.ireader.com/index.php?ca=bookdetail.index&pca=bookdetail.index&bid=10897498",
+            "name" : "金融营销"
+        },
+        {
+            "url" : "http://www.ireader.com/index.php?ca=bookdetail.index&pca=bookdetail.index&bid=10863597",
+            "name" : "商战(特劳特经典丛书)"
+        },
+        {
+            "url" : "http://www.ireader.com/index.php?ca=bookdetail.index&pca=bookdetail.index&bid=10885731",
+            "name" : "保险销售人员超级口才训练：保险销售人员与客户的111次沟通实例 (莫萨营销沟系列 5)"
+        },
+        {
+            "url" : "http://www.ireader.com/index.php?ca=bookdetail.index&pca=bookdetail.index&bid=10878435",
+            "name" : "项目计划、进度与控制（原书第5版）"
+        },
+        {
+            "url" : "http://www.ireader.com/index.php?ca=bookdetail.index&pca=bookdetail.index&bid=10907180",
+            "name" : "案例：创业方法论（第16辑）"
+        },
+        {
+            "url" : "http://www.ireader.com/index.php?ca=bookdetail.index&pca=bookdetail.index&bid=10956257",
+            "name" : "零售心理战：要站在顾客的立场上思考"
+        }
+    ],
+    "num_word" : "11.5万字"
+}
